@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+  height: 230px;
+  width: 200px;
+  float: right;
+  margin-right: 50px;
+  margin-top: 10px;
+}
+
+.continer{
+
+}
+
+.content{
+
+}
+.content h1{
+  padding-top: 40px;
+  padding-left: 400px;
+  font-size: 40px;
+  color: orange;
+}
+
+.nev{
+   padding-top: 50px;
+   font-size: 20px;
+}
+
+.nev p{
+
+}

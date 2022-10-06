@@ -1,0 +1,50 @@
+*{
+   margin: 0;
+   padding: 0;
+   max-width: 700px;
+   width: content;
+}
+
+.continer{
+    width: 100%;
+    background-color: rgb(3, 63, 63);
+    background-position: center;
+}
+
+.continer h2{
+    margin-top: 50px;
+    margin-left: 50PX;
+    color: rgb(247, 84, 8);
+    font-size: 30px;
+}
+
+.contant{
+    
+}
+
+.nev li{
+    padding-top: 50px;
+    padding-left: 400PX;
+    text-decoration: none;
+    color: rgb(176, 204, 15);
+    font-size: 20px;
+}
+
+pre{
+    color: aqua;
+    float: left;
+}
+
+.num{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.num a{
+    color: orange;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin-right: 30px;
+    border: 2px solid #fff;
+}
